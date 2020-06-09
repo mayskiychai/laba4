@@ -1,0 +1,54 @@
+body{
+    font-family: cambria;
+    font-weight:400;
+    font-style:normal;
+    font-size:20;
+    font-variant:normal;
+    line-height: normal;
+    margin: 0;
+	height: 100%;
+}
+.container{	
+    height: 100%;	
+	background-position: center;
+	background-size: cover;	
+	position: relative;	
+}
+h2,p{
+font-family: sans-serif;
+font-weight: lighter;
+color: black;
+}
+h2{
+	font-size: 35px;
+    padding-left: 10px;
+}
+p{
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+table{
+    width:100% ;
+    box-align: center;
+}
+td{
+    width: 50%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#history{
+    text-align: center;
+    font-weight: 700;
+}
+#head{
+	background: silver;
+    text-align: center;    
+}
+.obj{
+    text-align : center;
+    color : black;
+    font-size: 30px;
+}
